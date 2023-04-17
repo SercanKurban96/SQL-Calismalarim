@@ -1,0 +1,16 @@
+--VIEW OLUÞTURMA VE KULLANIMI
+
+--CREATE VIEW TEST1
+--AS
+--SELECT * FROM TBLKATEGORI
+
+--SELECT * FROM TEST1
+--ALTER VIEW TEST1
+--AS
+--SELECT * FROM TBLKATEGORI WHERE KATEGORIID < 4
+--SELECT * FROM TEST1
+
+--SELECT * FROM TEST2
+
+--SELECT * FROM TEST3
+--TEST3 örneðinde þehri Adana olan müþterilerin hareket tablosundaki deðerleri yazdýran sorgu
